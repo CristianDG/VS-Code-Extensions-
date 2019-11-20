@@ -1,0 +1,9 @@
+dbaeumer.vscode-eslint
+dracula-theme.theme-dracula
+esbenp.prettier-vscode
+JamesBirtles.svelte-vscode
+ms-python.python
+PKief.material-icon-theme
+remimarsal.prettier-now
+rocketseat.RocketseatReactJS
+vscode-icons-team.vscode-icons
